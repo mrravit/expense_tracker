@@ -1,7 +1,7 @@
 # @Name: Ravit Anuvongnukroh
 # @id: 6420421008
 
-import sqlite3
+import sqlite3 # import sqlite 
 from sqlite3 import Error
 
 
